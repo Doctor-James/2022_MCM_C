@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}
+
+\bibitem{learning1}
+Xing Wu, Haolei Chen, Jianjia Wang, Luigi Troiano, Vincenzo Loia, and Hamido
+  Fujita.
+\newblock Adaptive stock trading strategies with deep reinforcement learning
+  methods.
+\newblock {\em Information Sciences}, 538:142--158, 2020.
+
+\bibitem{learning2}
+Cong Ma, Jiangshe Zhang, Junmin Liu, Lizhen Ji, and Fei Gao.
+\newblock A parallel multi-module deep reinforcement learning algorithm for
+  stock trading.
+\newblock {\em Neurocomputing}, 449:290--302, 2021.
+
+\bibitem{LSTM}
+Sepp Hochreiter and Jürgen Schmidhuber.
+\newblock Long {Short}-{Term} {Memory}.
+\newblock {\em Neural Computation}, 9(8):1735--1780, 1997.
+\newblock Conference Name: Neural Computation.
+
+\bibitem{Quan1}
+Lijun Liu, Guopeng Liang, and Haitao Wang.
+\newblock Quantitative trading strategy system model research.
+\newblock {\em Shanghai Business}, (09):158--159, 2021.
+
+\bibitem{ATR}
+Tanishq Salkar, Aditya Shinde, Neelaya Tamhankar, and Narendra Bhagat.
+\newblock Algorithmic {Trading} using {Technical} {Indicators}.
+\newblock In {\em 2021 {International} {Conference} on {Communication}
+  information and {Computing} {Technology} ({ICCICT})}, pages 1--6, June 2021.
+
+\bibitem{sharpe}
+Hayette Gatfaoui.
+\newblock Sharpe {Ratios} and {Their} {Fundamental} {Components}: {An}
+  {Empirical} {Study}.
+\newblock {SSRN} {Scholarly} {Paper} ID 1486073, Social Science Research
+  Network, Rochester, NY, August 2009.
+
+\end{thebibliography}

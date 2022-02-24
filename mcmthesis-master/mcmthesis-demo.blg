@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mcmthesis-demo.aux
+The style file: unsrt.bst
+Database file #1: book.bib
+Warning--there's a number but no volume in Quan1
+You've used 6 entries,
+            1791 wiz_defined-function locations,
+            489 strings with 4641 characters,
+and the built_in function-call counts, 1546 in all, are:
+= -- 139
+> -- 74
+< -- 2
++ -- 27
+- -- 21
+* -- 121
+:= -- 254
+add.period$ -- 19
+call.type$ -- 6
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 60
+empty$ -- 141
+format.name$ -- 21
+if$ -- 331
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 5
+newline$ -- 34
+num.names$ -- 6
+pop$ -- 11
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 22
+stack$ -- 0
+substring$ -- 122
+swap$ -- 12
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 17
+width$ -- 7
+write$ -- 71
+(There was 1 warning)
